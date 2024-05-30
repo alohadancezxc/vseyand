@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "6658d3905d483cfd6822acde"
+  },
+  "title": "Crystal Keeper",
+  "description": "Управляй боевым дроном, чтобы любой ценой защитить кристалл от враждебных космо-слизней.",
+  "image": "https://code.s3.yandex.net/teens/pindie-games/cristal-keeper/cover.png",
+  "link": "https://code.s3.yandex.net/teens/pindie-games/cristal-keeper/game/index.html"
+}]
